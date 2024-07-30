@@ -1,7 +1,7 @@
 # Hi, I'm Lautaro
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex;">
+  <div style="flex-grow: 1;">
     <p>▪︎👩🏻‍💻 Software developer, passionate about technology and front-end</p>
     <p>▪︎👩🏻‍🎓 He studied Software Development at the University of Uade, Argentina</p>
     <p>▪︎🔍 Take a look at my projects!</p>
@@ -10,7 +10,7 @@
     <p>▪︎📫 How to reach me: laautaro.roldan@gmail.com</p>
     <p>▪︎📲 You can also find me on my <a href="https://www.linkedin.com/in/lautaro-roldan">LinkedIn</a> or <a href="https://www.instagram.com/lautaropulvi/">Instagram</a>.</p>
   </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
+  <div style="margin-left: 20px;">
     <img src="activos/gif1.gif" width="200">
   </div>
 </div>
