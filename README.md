@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Lautaro 👋
 
-<!--
-**Roldanlautaro/Roldanlautaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Software developer, passionate about technology and front-end
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 👩🏻‍🎓 He studied Software Development at the University of Uade, Argentina
+ 🔍 Take a look at my projects!
+ 🌱 I'm currently learning javascript
+ 👯 I'm open to new opportunities and collaborations
+ 📫 How to reach me: laautaro.roldan@gmail.com
+ 📲 You can also find me on my LinkedIn(www.linkedin.com/in/lautaro-roldan) or Instragram(https://www.instagram.com/lautaropulvi/).
+
+
+# Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
