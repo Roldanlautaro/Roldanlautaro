@@ -1,6 +1,6 @@
-# Hi, I'm Lautaro <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50">
+# Hi, I'm Lautaro
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p>▪︎👩🏻‍💻 Software developer, passionate about technology and front-end</p>
     <p>▪︎👩🏻‍🎓 He studied Software Development at the University of Uade, Argentina</p>
@@ -21,3 +21,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,git,github,figma&theme=light" />
   </a>
 </p>
+
