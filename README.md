@@ -16,4 +16,12 @@
   
 ▪︎📲 You can also find me on my <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> or <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
 
+<h2>💻 Tech Stack </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,git,github&theme=light" />
+  </a>
+</p>
+
 
