@@ -11,7 +11,7 @@
     <p>▪︎📲 You can also find me on my <a href="https://www.linkedin.com/in/lautaro-roldan">LinkedIn</a> or <a href="https://www.instagram.com/lautaropulvi/">Instagram</a>.</p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="activos/1d6bc03c3dd55bc1c59cec84edb81a46.gif" width="200">
+    <img src="activos/gif1.gif" width="200">
   </div>
 </div>
 
@@ -21,4 +21,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,git,github,figma&theme=light" />
   </a>
 </p>
-
