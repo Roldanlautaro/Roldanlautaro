@@ -13,7 +13,7 @@
     </div>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="activos/gif1.gif" width="200">
+    <img src="activos/gif2.gif" width="200">
   </div>
 </div>
 
