@@ -20,7 +20,7 @@
 # Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql,git,github,figma&theme=light" />
   </a>
 </p>
 
