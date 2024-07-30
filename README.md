@@ -1,6 +1,6 @@
-<h2>Hi, I'm Lautaro <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Lautaro 🙋🏻‍♂ ></h2>
 
-<img align="right" alt="GIF" src="activos/gif1.gif" width="160px"/>
+<img align="right" alt="GIF" src="activos/gif1.gif" width="200px"/>
 
 ▪︎👩🏻‍💻 Software developer, passionate about technology and front-end
   
