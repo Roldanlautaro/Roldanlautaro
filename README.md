@@ -1,4 +1,4 @@
-<h2>Hi, I'm Lautaro 👋🏻 </h2>
+# Hi, I'm Lautaro 👋🏻
 
 <img align="right" alt="GIF" src="activos/gif1.gif" width="170px"/>
 
@@ -16,7 +16,7 @@
   
 ▪︎📲 You can also find me on my <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> or <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
 
-<h2>💻 Tech Stack </h2>
+# 💻 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
