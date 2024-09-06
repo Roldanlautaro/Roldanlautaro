@@ -1,20 +1,18 @@
-# Hi, I'm Lautaro 👋🏻
+# Hola soy Lautaro 👋🏻
 
 <img align="right" alt="GIF" src="activos/gif1.gif" width="170px"/>
 
-▪︎👩🏻‍💻 Software developer, passionate about technology and front-end
+▪︎👩🏻‍💻 Desarrollador de software, apasionado por la tecnología y el front-end.
   
-▪︎👩🏻‍🎓 He studied Software Development at the University of Uade, Argentina
+▪︎👩🏻‍🎓 Estudió Desarrollo de Software en la Universidad de Uade, Argentina.
   
-▪︎🔍 Take a look at my projects!
-
-▪︎🌱 I'm currently learning javascript
+▪︎🔍 Echa un vistazo a mis proyectos!
   
-▪︎👯 I'm open to new opportunities and collaborations
+▪︎👯 Estoy abierto a nuevas oportunidades y colaboraciones.
   
-▪︎📫 How to reach me: laautaro.roldan@gmail.com
+▪︎📫 Cómo llegar a mí: laautaro.roldan@gmail.com
   
-▪︎📲 You can also find me on my <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> or <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
+▪︎📲 También puedes encontrarme en mi <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> or <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
 
 # 💻 Tech Stack
 
