@@ -1,6 +1,6 @@
 # Hola soy Lautaro 👋🏻
 
-<img align="right" alt="GIF" src="activos/gif1.gif" width="170px"/>
+<img align="right" alt="GIF" src="activos/gif1.gif" width="160px"/>
 
 ▪︎👩🏻‍💻 Desarrollador de software, apasionado por la tecnología y el front-end.
   
