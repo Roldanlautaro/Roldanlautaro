@@ -12,7 +12,7 @@
   
 ▪︎📫 Cómo llegar a mí: laautaro.roldan@gmail.com
   
-▪︎📲 También puedes encontrarme en mi <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> or <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
+▪︎📲 También puedes encontrarme en mi <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> o <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
 
 # 💻 Tech Stack
 
