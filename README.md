@@ -1,4 +1,4 @@
-# Hola soy Lautaro 👋🏻
+# ¡Hola! soy Lautaro 👋🏻
 
 <img align="right" alt="GIF" src="activos/gif1.gif" width="150px"/>
 
