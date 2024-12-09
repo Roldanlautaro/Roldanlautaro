@@ -10,9 +10,11 @@
   
 ▪︎👯 Estoy abierto a nuevas oportunidades y colaboraciones.
   
-▪︎📫 Cómo llegar a mí: laautaro.roldan@gmail.com
-  
-▪︎📲 También puedes encontrarme en mi <a href="https://www.linkedin.com/in/lautaro-roldan-293b40269/">**LinkedIn**</a> o <a href="https://www.instagram.com/lautaropulvi/">**Instagram**</a>.
+🔗 **Conéctemos**:
+- **LinkedIn**: [Lautaro Roldan](https://www.linkedin.com/in/lautaro-roldan/)
+- **Correo electrónico**: [laautaro.roldan@gmail.com](mailto:laautaro.roldan@gmail.com)
+- **PORTFOLIO**:[Portfolio](https://roldanlautaro.github.io/PortfolioByLautaro/)
+
 
 # 💻 Tech Stack
 
