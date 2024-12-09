@@ -13,7 +13,7 @@
 🔗 **Conéctemos**:
 - **LinkedIn**: [Lautaro Roldan](https://www.linkedin.com/in/lautaro-roldan/)
 - **Correo electrónico**: [laautaro.roldan@gmail.com](mailto:laautaro.roldan@gmail.com)
-- **PORTFOLIO**:[Portfolio](https://roldanlautaro.github.io/PortfolioByLautaro/)
+- **PORTFOLIO**: [Portfolio](https://roldanlautaro.github.io/PortfolioByLautaro/)
 
 
 # 💻 Tech Stack
