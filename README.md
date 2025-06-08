@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lautaro 👋🏻
+# <h1 align="center"> ¡Hola! Soy Lautaro 👋🏻 </h1>
 
 <img align="right" alt="GIF" src="activos/gif1.gif" width="150px"/>
 
