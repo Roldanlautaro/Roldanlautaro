@@ -2,13 +2,15 @@
 
 <img align="right" alt="GIF" src="activos/gif1.gif" width="150px"/>
 
-▪︎👩🏻‍💻 Desarrollador de software, apasionado por la tecnología y el front-end.
+▪︎👩🏻‍💻 Desarrollador de software apasionado por la tecnología, enfocado en el desarrollo full-stack y la construcción de soluciones escalables.
   
 ▪︎👩🏻‍🎓 Estudió Desarrollo de Software en la Universidad de Uade, Argentina.
+
+▪︎🚀 Interesado en backend, frontend y arquitectura de software.
   
 ▪︎🔍 Echa un vistazo a mis proyectos!
   
-▪︎👯 Estoy abierto a nuevas oportunidades y colaboraciones.
+▪︎🤝 Estoy abierto a nuevas oportunidades y colaboraciones.
   
 🔗 **Conéctemos**:
 - **LinkedIn**: [Lautaro Roldan](https://www.linkedin.com/in/lautaro-roldan/)
