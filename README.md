@@ -29,5 +29,5 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roldanlautaro&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Roldanlautaro&theme=radical&hide_border=true" height="160"/>
 </p>
