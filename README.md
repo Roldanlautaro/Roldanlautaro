@@ -28,6 +28,6 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Roldanlautaro&theme=highcontrast&hide_border=true&locale=es" height="165"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Roldanlautaro&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Roldanlautaro&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roldanlautaro&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
