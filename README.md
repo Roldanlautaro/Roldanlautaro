@@ -29,3 +29,4 @@
 # 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Roldanlautaro&theme=react&hide_border=false)
+[![](https://nirzak-streak-stats.vercel.app?user=Roldanlautaro&theme=transparent&locale=es)](https://git.io/streak-stats)
